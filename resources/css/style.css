@@ -1,8 +1,14 @@
-* {
+body {
    background-color: black;
    text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1, h2 {
     color: white;
+}
+
+footer p {
+    color: gray;
+    text-align: right;
 }
